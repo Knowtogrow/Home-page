@@ -1,0 +1,10 @@
+include ':Feedback'
+include ':Refer'
+include ':Contact Us'
+include ':AboutUs'
+include ':Subject_Choice'
+include ':Aptitude Test'
+include ':Ask The Expert'
+include ':FAQ'
+include ':Home'
+rootProject.name = "Home Screen"
